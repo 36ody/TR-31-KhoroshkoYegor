@@ -1,0 +1,341 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Downloads\\OOP\\OOP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{18255226-46EA-4FD8-A052-C59738B9C1B1}|OOP.csproj|c:\\users\\lenovo\\downloads\\oop\\oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18255226-46EA-4FD8-A052-C59738B9C1B1}|OOP.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18255226-46EA-4FD8-A052-C59738B9C1B1}|OOP.csproj|c:\\users\\lenovo\\downloads\\oop\\oop\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18255226-46EA-4FD8-A052-C59738B9C1B1}|OOP.csproj|solutionrelative:user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18255226-46EA-4FD8-A052-C59738B9C1B1}|OOP.csproj|c:\\users\\lenovo\\downloads\\oop\\oop\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18255226-46EA-4FD8-A052-C59738B9C1B1}|OOP.csproj|solutionrelative:product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18255226-46EA-4FD8-A052-C59738B9C1B1}|OOP.csproj|c:\\users\\lenovo\\downloads\\oop\\oop\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18255226-46EA-4FD8-A052-C59738B9C1B1}|OOP.csproj|solutionrelative:dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18255226-46EA-4FD8-A052-C59738B9C1B1}|OOP.csproj|c:\\users\\lenovo\\downloads\\oop\\oop\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18255226-46EA-4FD8-A052-C59738B9C1B1}|OOP.csproj|solutionrelative:service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18255226-46EA-4FD8-A052-C59738B9C1B1}|OOP.csproj|c:\\users\\lenovo\\downloads\\oop\\oop\\service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18255226-46EA-4FD8-A052-C59738B9C1B1}|OOP.csproj|solutionrelative:service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18255226-46EA-4FD8-A052-C59738B9C1B1}|OOP.csproj|c:\\users\\lenovo\\downloads\\oop\\oop\\service\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18255226-46EA-4FD8-A052-C59738B9C1B1}|OOP.csproj|solutionrelative:service\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18255226-46EA-4FD8-A052-C59738B9C1B1}|OOP.csproj|c:\\users\\lenovo\\downloads\\oop\\oop\\service\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18255226-46EA-4FD8-A052-C59738B9C1B1}|OOP.csproj|solutionrelative:service\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18255226-46EA-4FD8-A052-C59738B9C1B1}|OOP.csproj|c:\\users\\lenovo\\downloads\\oop\\oop\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18255226-46EA-4FD8-A052-C59738B9C1B1}|OOP.csproj|solutionrelative:repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18255226-46EA-4FD8-A052-C59738B9C1B1}|OOP.csproj|c:\\users\\lenovo\\downloads\\oop\\oop\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18255226-46EA-4FD8-A052-C59738B9C1B1}|OOP.csproj|solutionrelative:repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18255226-46EA-4FD8-A052-C59738B9C1B1}|OOP.csproj|c:\\users\\lenovo\\downloads\\oop\\oop\\repository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18255226-46EA-4FD8-A052-C59738B9C1B1}|OOP.csproj|solutionrelative:repository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18255226-46EA-4FD8-A052-C59738B9C1B1}|OOP.csproj|c:\\users\\lenovo\\downloads\\oop\\oop\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18255226-46EA-4FD8-A052-C59738B9C1B1}|OOP.csproj|solutionrelative:repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18255226-46EA-4FD8-A052-C59738B9C1B1}|OOP.csproj|c:\\users\\lenovo\\downloads\\oop\\oop\\command\\viewprofilecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18255226-46EA-4FD8-A052-C59738B9C1B1}|OOP.csproj|solutionrelative:command\\viewprofilecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18255226-46EA-4FD8-A052-C59738B9C1B1}|OOP.csproj|c:\\users\\lenovo\\downloads\\oop\\oop\\command\\viewproductscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18255226-46EA-4FD8-A052-C59738B9C1B1}|OOP.csproj|solutionrelative:command\\viewproductscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18255226-46EA-4FD8-A052-C59738B9C1B1}|OOP.csproj|c:\\users\\lenovo\\downloads\\oop\\oop\\command\\registerusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18255226-46EA-4FD8-A052-C59738B9C1B1}|OOP.csproj|solutionrelative:command\\registerusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18255226-46EA-4FD8-A052-C59738B9C1B1}|OOP.csproj|c:\\users\\lenovo\\downloads\\oop\\oop\\command\\purchaseproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18255226-46EA-4FD8-A052-C59738B9C1B1}|OOP.csproj|solutionrelative:command\\purchaseproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18255226-46EA-4FD8-A052-C59738B9C1B1}|OOP.csproj|c:\\users\\lenovo\\downloads\\oop\\oop\\command\\loginusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18255226-46EA-4FD8-A052-C59738B9C1B1}|OOP.csproj|solutionrelative:command\\loginusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18255226-46EA-4FD8-A052-C59738B9C1B1}|OOP.csproj|c:\\users\\lenovo\\downloads\\oop\\oop\\command\\addproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18255226-46EA-4FD8-A052-C59738B9C1B1}|OOP.csproj|solutionrelative:command\\addproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18255226-46EA-4FD8-A052-C59738B9C1B1}|OOP.csproj|c:\\users\\lenovo\\downloads\\oop\\oop\\command\\addbalancecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18255226-46EA-4FD8-A052-C59738B9C1B1}|OOP.csproj|solutionrelative:command\\addbalancecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18255226-46EA-4FD8-A052-C59738B9C1B1}|OOP.csproj|c:\\users\\lenovo\\downloads\\oop\\oop\\command\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18255226-46EA-4FD8-A052-C59738B9C1B1}|OOP.csproj|solutionrelative:command\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\OOP\\OOP\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\OOP\\OOP\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "Repository\\UserRepository.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAgwCcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T22:21:45.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\OOP\\OOP\\Service\\IUserService.cs",
+              "RelativeDocumentMoniker": "Service\\IUserService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\OOP\\OOP\\Service\\IUserService.cs",
+              "RelativeToolTip": "Service\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T19:47:51.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\OOP\\OOP\\Service\\UserService.cs",
+              "RelativeDocumentMoniker": "Service\\UserService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\OOP\\OOP\\Service\\UserService.cs",
+              "RelativeToolTip": "Service\\UserService.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAYwCEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T22:00:48.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\OOP\\OOP\\Service\\IProductService.cs",
+              "RelativeDocumentMoniker": "Service\\IProductService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\OOP\\OOP\\Service\\IProductService.cs",
+              "RelativeToolTip": "Service\\IProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T19:47:44.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\OOP\\OOP\\Service\\ProductService.cs",
+              "RelativeDocumentMoniker": "Service\\ProductService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\OOP\\OOP\\Service\\ProductService.cs",
+              "RelativeToolTip": "Service\\ProductService.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwCMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T22:11:42.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\OOP\\OOP\\DbContext.cs",
+              "RelativeDocumentMoniker": "DbContext.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\OOP\\OOP\\DbContext.cs",
+              "RelativeToolTip": "DbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T22:23:55.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\OOP\\OOP\\Product.cs",
+              "RelativeDocumentMoniker": "Product.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\OOP\\OOP\\Product.cs",
+              "RelativeToolTip": "Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T22:02:50.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\OOP\\OOP\\User.cs",
+              "RelativeDocumentMoniker": "User.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\OOP\\OOP\\User.cs",
+              "RelativeToolTip": "User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T21:58:07.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\OOP\\OOP\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\OOP\\OOP\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwC8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T21:54:55.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\OOP\\OOP\\Repository\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\OOP\\OOP\\Repository\\ProductRepository.cs",
+              "RelativeToolTip": "Repository\\ProductRepository.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAA5wCoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T19:47:30.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\OOP\\OOP\\Repository\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\OOP\\OOP\\Repository\\IProductRepository.cs",
+              "RelativeToolTip": "Repository\\IProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T19:47:15.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\OOP\\OOP\\Repository\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\OOP\\OOP\\Repository\\IUserRepository.cs",
+              "RelativeToolTip": "Repository\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T19:47:23.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ViewProfileCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\OOP\\OOP\\Command\\ViewProfileCommand.cs",
+              "RelativeDocumentMoniker": "Command\\ViewProfileCommand.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\OOP\\OOP\\Command\\ViewProfileCommand.cs",
+              "RelativeToolTip": "Command\\ViewProfileCommand.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwB0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T19:47:08.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ViewProductsCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\OOP\\OOP\\Command\\ViewProductsCommand.cs",
+              "RelativeDocumentMoniker": "Command\\ViewProductsCommand.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\OOP\\OOP\\Command\\ViewProductsCommand.cs",
+              "RelativeToolTip": "Command\\ViewProductsCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T19:47:01.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RegisterUserCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\OOP\\OOP\\Command\\RegisterUserCommand.cs",
+              "RelativeDocumentMoniker": "Command\\RegisterUserCommand.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\OOP\\OOP\\Command\\RegisterUserCommand.cs",
+              "RelativeToolTip": "Command\\RegisterUserCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T22:00:30.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PurchaseProductCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\OOP\\OOP\\Command\\PurchaseProductCommand.cs",
+              "RelativeDocumentMoniker": "Command\\PurchaseProductCommand.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\OOP\\OOP\\Command\\PurchaseProductCommand.cs",
+              "RelativeToolTip": "Command\\PurchaseProductCommand.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwAsAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T22:17:06.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LoginUserCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\OOP\\OOP\\Command\\LoginUserCommand.cs",
+              "RelativeDocumentMoniker": "Command\\LoginUserCommand.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\OOP\\OOP\\Command\\LoginUserCommand.cs",
+              "RelativeToolTip": "Command\\LoginUserCommand.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAzwBEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T22:08:16.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AddProductCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\OOP\\OOP\\Command\\AddProductCommand.cs",
+              "RelativeDocumentMoniker": "Command\\AddProductCommand.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\OOP\\OOP\\Command\\AddProductCommand.cs",
+              "RelativeToolTip": "Command\\AddProductCommand.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAA1wAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T22:04:26.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AddBalanceCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\OOP\\OOP\\Command\\AddBalanceCommand.cs",
+              "RelativeDocumentMoniker": "Command\\AddBalanceCommand.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\OOP\\OOP\\Command\\AddBalanceCommand.cs",
+              "RelativeToolTip": "Command\\AddBalanceCommand.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwAoAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T22:04:29.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ICommand.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\OOP\\OOP\\Command\\ICommand.cs",
+              "RelativeDocumentMoniker": "Command\\ICommand.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\OOP\\OOP\\Command\\ICommand.cs",
+              "RelativeToolTip": "Command\\ICommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T21:59:20.235Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
